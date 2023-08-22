@@ -6,7 +6,8 @@ Summer 2023 MLEF Scripts to Analyze the Operational Costs from the 45Q Carbon Se
         In your python environment, make sure to install the libraries as stated in the preamble of the python scripts, and make sure to load the NETL Bituminous baseline report (as linked in the scripts for data collection).
     Usage:
         datacollect.py is a script to collect the data from the Bituminous baseline report, and simplecostmodel.py performs the simulation of firm operating costs. These estimation of firm operating costs are "back of the envelope" calculations and should be viewed as such.
-    License:
+        License:
+    Creative Commons Zero v1.0 Universal
     Author:
         Sean Franco, and Dr.Harker Steele for conducting this inquiry.
     Acknowledgments:
