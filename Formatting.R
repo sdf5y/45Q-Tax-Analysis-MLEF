@@ -1,4 +1,4 @@
-setwd("C:/Users/FRANCOS/Documents/Modeling")
+setwd("")
 #install.packages("readr")
 #install.packages("ggplot2")
 #install.packages("dplyr")
